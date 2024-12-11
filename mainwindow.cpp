@@ -17,9 +17,6 @@ MainWindow::MainWindow(QWidget *parent)
 	layout->addWidget(btnClassify);
 
 	setCentralWidget(centralWidget);
-
-
-
 }
 
 MainWindow::~MainWindow()
